@@ -87,7 +87,7 @@ Administrative Login details
 1. Create a <a href="https://hub.docker.com/signup">docker</a> account  
     if you already have one, <a href="https://hub.docker.com/login">login</a>
 1. Open <a href="https://labs.play-with-docker.com/">Docker Play</a> online docker playground.  
-    login and press <a href="https://www.google.com"><button style="height:30px;background:green">START</button></a>  
+    login and press <a href="https://labs.play-with-docker.com/"><button style="height:30px;background:green">START</button></a>  
 
 1. Click on '+ ADD NEW INSTANCE'  
 
