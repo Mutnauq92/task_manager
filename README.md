@@ -10,10 +10,10 @@ and create or view tasks statistics reports
 <img src="images/menu.png" width="400">
 <br><br><br>
 
-# Table of contents
+# Table-of-contents
 
 <!-- Ordered list  -->  
-1. [Table of Contents](#dockerizing)
+1. [Dockerizing](#dockerizing)
 1. [Tools](#tools)  
 1. [Resources](#resources)  
 1. [Python Installation](#python-installation)<br>  
@@ -43,11 +43,9 @@ your installed version
 
 ![py_version](images/pyversion.png)
 
-
 ```
 deactivate
-```
-<br>  
+```  
 [top](#table-of-contents)  
 <br>  
 
