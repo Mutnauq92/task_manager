@@ -1,6 +1,5 @@
 <!-- Heading -->
 # <strong>Task Manager v2.0</strong>  
-<a href="https://github.com/Mutnauq92/projects/tree/main/task_manager_v2.0" target="_blank">Task Manager v2.0</a>  
 
 Task management program.
 User can create, edit, assign and assess task assigned to assignees  
