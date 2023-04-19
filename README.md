@@ -7,7 +7,7 @@ User can create, edit, assign and assess task assigned to assignees
 and create or view tasks statistics reports
 
 <br><br><br>
-<img src="menu.png" width="400">
+<img src="images/menu.png" width="400">
 <br><br><br>
 
 # Table of contents <span style="opacity: 0.4"> [ Virtualenv-Wrapper ]</span>
@@ -42,7 +42,7 @@ If python was installed correctly, the result will be displayed
 as in the image below. The version may differ depending on  
 your installed version   
 
-![py_version](pyversion.png)
+![py_version](images/pyversion.png)
 
 
 ```
