@@ -22,8 +22,7 @@ and create or view tasks statistics reports
   
 ## <strong>Tools</strong>  
 <a href="http://python.org" target="_blank">Python</a>  
-<a href="https://docs.djangoproject.com/" target="_blank">Django</a>  
-  
+
 ## Resources  
 <a href="https://www.hyperiondev.com" target="_blank">Task Reading Material</a>  
 
