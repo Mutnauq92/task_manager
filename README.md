@@ -10,7 +10,7 @@ and create or view tasks statistics reports
 <img src="menu.png" width="400">
 <br><br><br>
 
-# Table of contents <span style="opacity: 0.4"> [ Virtualenv-Wrapper ]</span>
+# Table of contents
 
 <!-- Ordered list  -->  
 1. [Table of Contents](#dockerizing)
@@ -83,7 +83,7 @@ Administrative Login details
 
 <br>
 
-# Dockerizing <span style="opacity: 0.4"> [ Virtualenv-Wrapper ]</span>  
+# Dockerizing  
 
 1. Create a <a href="https://hub.docker.com/signup">docker</a> account  
     if you already have one, <a href="https://hub.docker.com/login">login</a>
